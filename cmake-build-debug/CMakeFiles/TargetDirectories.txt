@@ -1,0 +1,3 @@
+C:/Users/aaron/Desktop/ProgramacionConMemoriaDinamica/Proyectos/HatONames/cmake-build-debug/CMakeFiles/HatONames.dir
+C:/Users/aaron/Desktop/ProgramacionConMemoriaDinamica/Proyectos/HatONames/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aaron/Desktop/ProgramacionConMemoriaDinamica/Proyectos/HatONames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
